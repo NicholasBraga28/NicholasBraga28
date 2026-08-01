@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:ff2800&height=220&section=header&text=Nicholas%20Braga&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20FullStack%20%26%20DevSecOps&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:ff2800&height=200&section=header&text=Nicholas%20Braga&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20FullStack%20%26%20DevSecOps&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 <br>
 
-<table align="center">
-<tr>
-<td valign="top" width="60%">
+<img src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width="140"/>
+
+<br><br>
 
 ### `> whoami`
 
@@ -19,21 +17,9 @@ focus: FullStack & DevSecOps
 job: Analyst @ Semantix
 location: Guarulhos, São Paulo, Brazil
 currently_working_on: [PMO Projects, Dashboards]
-fun_fact: "Chasing FPS gains as hard as clean code"
 ```
 
-</td>
-<td valign="top" width="40%" align="center">
-
-<img src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width="160"/>
-
-</td>
-</tr>
-</table>
-
 <br>
-
-<div align="center">
 
 ### 🧠 Core Stack
 
@@ -44,6 +30,8 @@ fun_fact: "Chasing FPS gains as hard as clean code"
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
+<br><br>
+
 ### 🧰 Tools & Environment
 
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
@@ -51,34 +39,27 @@ fun_fact: "Chasing FPS gains as hard as clean code"
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 ### 📊 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=NicholasBraga28&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff2800&icon_color=ff2800&text_color=c9d1d9&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NicholasBraga28&theme=radical&hide_border=true&background=0d1117&ring=ff2800&fire=ff2800&currStreakLabel=ff2800" width="48%"/>
+<br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasBraga28&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff2800&text_color=c9d1d9" width="55%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=NicholasBraga28&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff2800&icon_color=ff2800&text_color=c9d1d9&count_private=true" width="45%"/>
 
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NicholasBraga28&theme=radical&hide_border=true&background=0d1117&ring=ff2800&fire=ff2800&currStreakLabel=ff2800" width="45%"/>
 
 <br>
 
-<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasBraga28&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff2800&text_color=c9d1d9" width="45%"/>
+
+<br><br>
 
 ### 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NicholasBraga28&theme=react-dark&hide_border=true&bg_color=0d1117&color=ff2800&line=ff2800&point=ffffff" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NicholasBraga28&theme=react-dark&hide_border=true&bg_color=0d1117&color=ff2800&line=ff2800&point=ffffff" width="90%"/>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 ### 🌐 Let's Connect
 
@@ -96,6 +77,8 @@ fun_fact: "Chasing FPS gains as hard as clean code"
 
 <img src="https://komarev.com/ghpvc/?username=NicholasBraga28&label=Profile%20Views&color=ff2800&style=for-the-badge" alt="profile views"/>
 
-</div>
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2800,100:1a1a2e&height=120&section=footer" width="100%"/>
+
+</div>
