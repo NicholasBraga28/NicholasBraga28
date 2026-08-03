@@ -1,19 +1,37 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2800,100:8b0000&height=180&section=header&text=Nicholas%20Braga&fontSize=45&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:ff2800&height=200&section=header&text=Nicholas%20Braga&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20FullStack%20%26%20DevSecOps&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<table>
+<tr>
+<td width="55%" valign="top">
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjBlaTRvNXNhZGVsNzB3ZXdwczZ4Nml3cGZ4czNqbmw2dGpxaXphMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kEJ3nRhy6QQ2w/giphy.gif" width="140"/>
+## 🖥️ `whoami`
 
-### `> whoami`
+**Software Engineering Student** @ FIAP
+**FullStack & DevSecOps** focus
+
+> Analyst @ Semantix — PMO Projects & Dashboards
+> 📍 Guarulhos, São Paulo, Brazil
 
 ```yaml
 name: Nicholas Braga
 role: Software Engineering Student @ FIAP
-focus: FullStack & DevSecOps
+focus: [FullStack, DevSecOps]
 job: Analyst @ Semantix
-location: Guarulhos, São Paulo, Brazil
 currently_working_on: [PMO Projects, Dashboards]
 ```
+
+</td>
+<td width="45%" valign="top" align="center">
+
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjBlaTRvNXNhZGVsNzB3ZXdwczZ4Nml3cGZ4czNqbmw2dGpxaXphMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kEJ3nRhy6QQ2w/giphy.gif" width="220"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
 
 ### 🧠 Core Stack
 
@@ -56,6 +74,10 @@ currently_working_on: [PMO Projects, Dashboards]
 
 <img src="https://komarev.com/ghpvc/?username=NicholasBraga28&label=Profile%20Views&color=ff2800&style=for-the-badge" alt="profile views"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2800,100:1a1a2e&height=120&section=footer" width="100%"/>
+<br><br>
+
+### [🚀 Check my repos →](https://github.com/NicholasBraga28?tab=repositories)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b0000,100:ff2800&height=150&section=footer"/>
 
 </div>
