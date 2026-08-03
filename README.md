@@ -15,17 +15,17 @@
 > 📍 Guarulhos, São Paulo, Brazil
 
 ```yaml
-name: Nicholas Braga
-role: Software Engineering Student @ FIAP
-focus: [FullStack, DevSecOps]
-job: Analyst @ Semantix
-currently_working_on: [PMO Projects, Dashboards]
+Name: Nicholas Braga
+Role: Software Engineering Student @ FIAP
+Focus: [FullStack, DevSecOps]
+Job: Analyst @ Semantix
+Currently_working_on: [PMO Projects, Dashboards]
 ```
 
 </td>
-<td width="45%" valign="top" align="center">
+<td width="45%" valign="middle" align="center">
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjBlaTRvNXNhZGVsNzB3ZXdwczZ4Nml3cGZ4czNqbmw2dGpxaXphMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kEJ3nRhy6QQ2w/giphy.gif" width="220"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWVzbTF3OHdscWdpaTc3eTlmazkweTAyOHNvMWZkNHBkam5hd2ViYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3xgR6JaucMaXe/giphy.gif" width="100%"/>
 
 </td>
 </tr>
