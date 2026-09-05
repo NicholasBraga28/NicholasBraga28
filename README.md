@@ -1,83 +1,111 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2800,100:8b0000&height=180&section=header&text=Nicholas%20Braga&fontSize=45&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
 </div>
 
-<table>
-<tr>
-<td width="55%" valign="top">
+#
 
-## 🖥️ `whoami`
+Me chamo Paulo Queiroz, tenho 24 anos e moro em Juiz de Fora - MG. Atualmente curso Análise e Desenvolvimento de Sistemas na FIAP. Sou apaixonado por tecnologia, curioso sobre Hardware e compartilho meu conhecimento através do
+meu canal no YouTube "[PauloDev](https://www.youtube.com/@paulopontodev)".
+ 
+#
 
-**Software Engineering Student** @ FIAP
-**FullStack & DevSecOps** focus
+<img align="right" alt="" height="190px" src="./src/Indie Writing GIF.gif">
 
-> Analyst @ Semantix — PMO Projects & Dashboards
-> 📍 Guarulhos, São Paulo, Brazil
+<h3 align="left">Connect with me!</h3>
 
-```yaml
-Name: Nicholas Braga
-Role: Software Engineering Student @ FIAP
-Focus: [FullStack, DevSecOps]
-Job: Analyst @ Semantix
-Currently_working_on: [PMO Projects, Dashboards]
-```
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:paulorobertodequeirozjr@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/paulopontodev/)
 
-</td>
-<td width="45%" valign="middle" align="center">
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWVzbTF3OHdscWdpaTc3eTlmazkweTAyOHNvMWZkNHBkam5hd2ViYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3xgR6JaucMaXe/giphy.gif" width="100%"/>
+<h3 align="left">My Stack ~</h3>
 
-</td>
-</tr>
-</table>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
 
-<div align="center">
+<img
+    align="left"
+    alt="Github"
+    title="GitHub"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+/>
 
-### 🧠 Core Stack
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
 
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 
-### 🧰 Tools & Environment
+<img
+    align="left"
+    alt="Vercel"
+    title="Vercel"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"
+/>
+<br/>
+<br/>
 
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<h3 align="left">GitHub Stats</h3>
 
-### 📊 GitHub Analytics
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=NicholasBraga28&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"
+  />
 
-<img src="https://github-readme-stats.vercel.app/api?username=NicholasBraga28&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff2800&icon_color=ff2800&text_color=c9d1d9&count_private=true" width="45%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NicholasBraga28&theme=radical&hide_border=true&background=0d1117&ring=ff2800&fire=ff2800&currStreakLabel=ff2800" width="45%"/>
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=NicholasBraga28&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
+  />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasBraga28&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff2800&text_color=c9d1d9" width="45%"/>
+</p>
 
-### 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NicholasBraga28&theme=react-dark&hide_border=true&bg_color=0d1117&color=ff2800&line=ff2800&point=ffffff" width="90%"/>
-
-### 🌐 Let's Connect
-
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://instagram.com/SEU-INSTAGRAM-AQUI" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="mailto:seu-email@exemplo.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=NicholasBraga28&label=Profile%20Views&color=ff2800&style=for-the-badge" alt="profile views"/>
-
-<br><br>
-
-### [🚀 Check my repos →](https://github.com/NicholasBraga28?tab=repositories)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b0000,100:ff2800&height=150&section=footer"/>
-
-</div>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake.svg">
+</picture>
