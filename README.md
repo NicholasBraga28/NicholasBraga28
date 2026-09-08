@@ -6,9 +6,21 @@
 
 #
 
-Me chamo Nicholas Braga, resido em Guarulhos, São Paulo. Atualmente estudando FIAP.
+You can call me Nicholas. I’m a Software Engineering student at FIAP and a Development Intern, focused on Backend Development, Artificial Intelligence, and Cloud Computing..
  
+
 #
+
+```yaml
+Currently:
+
+  🌱 Studying    : Software Engineering @ FIAP
+  🎯 Focused on  : Backend Development · AI Development · Cloud Computing
+  💼 Working at  : @semantix, one of the most important corporative AI enterprises in Brazil 
+  📍 Based in    : São Paulo, Brazil
+```
+
+##
 
 <img align="right" alt="" height="190px" src="./src/Indie Writing GIF.gif">
 
