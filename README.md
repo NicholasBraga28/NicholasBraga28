@@ -26,9 +26,9 @@ Currently:
 
 <h3 align="left">Connect with me!</h3>
 
-[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FFD700)](mailto:seuemail@exemplo.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/seu-usuario)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=Instagram&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/paulopontodev/)
+[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FFD700)](mailto:nicholas.fbnl@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](www.linkedin.com/in/nicholasbraga28)
+
 
 
 <h3 align="left">My Stack ~</h3>
